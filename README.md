@@ -1,2 +1,1 @@
-# akshat7
-Hotel management system
+demo for java program
